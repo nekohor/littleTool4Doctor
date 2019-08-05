@@ -1,0 +1,25 @@
+2019-08-05 09:00:59,829 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost initializing
+2019-08-05 09:01:00,379 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.InspectionService
+2019-08-05 09:01:00,603 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.ConfigService
+2019-08-05 09:01:00,603 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Historain.HistorainDataService
+2019-08-05 09:01:00,604 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SpcChartService
+2019-08-05 09:01:00,604 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.DataTraceService
+2019-08-05 09:01:00,605 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.TechnicalSpecificationService
+2019-08-05 09:01:00,605 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SingleQtTableService
+2019-08-05 09:01:01,061 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Objects.ObjectContainer
+2019-08-05 09:01:01,061 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Schedule.ScheduleService
+2019-08-05 09:01:01,062 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.TimeService
+2019-08-05 09:01:01,063 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.UpdateService
+2019-08-05 09:01:01,118 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Persistent.PersistentService
+2019-08-05 09:01:01,128 [1] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - 批量导出表检图片程序启动
+2019-08-05 09:01:01,129 [1] INFO  SOA.Objects.ObjectContainer [(null)] - loading singleton object id=ExportSisDataPic type=QMS.ExportSisPic.ExportSisPic, QMS.ExportSisPic
+2019-08-05 09:01:01,131 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - -------------读取文件完成-----------------------
+2019-08-05 09:01:01,131 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - -------------读取文件完成-----------------------
+2019-08-05 09:01:01,132 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - ----------------文本数据处理完毕-----------------
+2019-08-05 09:01:01,132 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - ----------------文本数据处理完毕-----------------
+2019-08-05 09:01:01,132 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost startuped
+2019-08-05 09:01:01,856 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - ----------------表检数据已经查询完毕----------------
+2019-08-05 09:01:02,109 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - ----------------表检数据已经查询完毕----------------
+2019-08-05 09:01:02,112 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - ----------------开始处理图片-----------------
+2019-08-05 09:01:02,161 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - 图片下载失败
+2019-08-05 09:01:02,823 [4] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - ----------------图片M19080847P_2.jpg下载完毕--------------

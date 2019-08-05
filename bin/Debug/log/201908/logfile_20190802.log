@@ -1,0 +1,72 @@
+2019-08-02 16:41:40,344 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost initializing
+2019-08-02 16:41:40,774 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.ConfigService
+2019-08-02 16:41:40,775 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Historain.HistorainDataService
+2019-08-02 16:41:40,776 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SpcChartService
+2019-08-02 16:41:40,777 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.DataTraceService
+2019-08-02 16:41:40,777 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.TechnicalSpecificationService
+2019-08-02 16:41:40,778 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SingleQtTableService
+2019-08-02 16:41:40,884 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Objects.ObjectContainer
+2019-08-02 16:41:40,885 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Schedule.ScheduleService
+2019-08-02 16:41:40,886 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.TimeService
+2019-08-02 16:41:40,886 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.UpdateService
+2019-08-02 16:41:40,920 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Persistent.PersistentService
+2019-08-02 16:41:40,927 [1] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - 批量导出表检图片程序启动
+2019-08-02 16:41:40,937 [1] INFO  SOA.Objects.ObjectContainer [(null)] - loading singleton object id=ExportSisDataPic type=QMS.ExportSisPic.ExportSisPic, QMS.ExportSisPic
+2019-08-02 16:41:40,940 [1] INFO  SOA.Registry.ServiceRegistry [(null)] - initialize multicast registry center addr=multicast://224.199.192.20 port=9090
+2019-08-02 16:41:40,960 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost startuped
+2019-08-02 16:41:40,967 [3] INFO  SOA.Registry.MulticastRegistry [(null)] - receive multicast message 'Register' from 192.168.1.106
+2019-08-02 16:41:40,971 [4] INFO  SOA.Registry.MulticastRegistry [(null)] - receive multicast message 'Request' from 192.168.1.106
+2019-08-02 16:42:27,823 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost initializing
+2019-08-02 16:42:28,108 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.ConfigService
+2019-08-02 16:42:28,109 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Historain.HistorainDataService
+2019-08-02 16:42:28,110 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SpcChartService
+2019-08-02 16:42:28,110 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.DataTraceService
+2019-08-02 16:42:28,111 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.TechnicalSpecificationService
+2019-08-02 16:42:28,111 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SingleQtTableService
+2019-08-02 16:42:28,224 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Objects.ObjectContainer
+2019-08-02 16:42:28,225 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Schedule.ScheduleService
+2019-08-02 16:42:28,228 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.TimeService
+2019-08-02 16:42:28,229 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.UpdateService
+2019-08-02 16:42:28,276 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Persistent.PersistentService
+2019-08-02 16:42:28,284 [1] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - 批量导出表检图片程序启动
+2019-08-02 16:42:28,315 [1] INFO  SOA.Objects.ObjectContainer [(null)] - loading singleton object id=ExportSisDataPic type=QMS.ExportSisPic.ExportSisPic, QMS.ExportSisPic
+2019-08-02 16:42:28,319 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost startuped
+2019-08-02 16:42:44,000 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost initializing
+2019-08-02 16:42:44,293 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.ConfigService
+2019-08-02 16:42:44,294 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Historain.HistorainDataService
+2019-08-02 16:42:44,294 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SpcChartService
+2019-08-02 16:42:44,295 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.DataTraceService
+2019-08-02 16:42:44,295 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.TechnicalSpecificationService
+2019-08-02 16:42:44,295 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SingleQtTableService
+2019-08-02 16:42:44,379 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Objects.ObjectContainer
+2019-08-02 16:42:44,380 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Schedule.ScheduleService
+2019-08-02 16:42:44,381 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.TimeService
+2019-08-02 16:42:44,381 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.UpdateService
+2019-08-02 16:42:44,422 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Persistent.PersistentService
+2019-08-02 16:47:54,585 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost initializing
+2019-08-02 16:47:55,088 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.ConfigService
+2019-08-02 16:47:55,089 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Historain.HistorainDataService
+2019-08-02 16:47:55,091 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SpcChartService
+2019-08-02 16:47:55,091 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.DataTraceService
+2019-08-02 16:47:55,092 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.TechnicalSpecificationService
+2019-08-02 16:47:55,092 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SingleQtTableService
+2019-08-02 16:47:55,212 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Objects.ObjectContainer
+2019-08-02 16:47:55,213 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Schedule.ScheduleService
+2019-08-02 16:47:55,214 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.TimeService
+2019-08-02 16:47:55,214 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.UpdateService
+2019-08-02 16:47:55,261 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Persistent.PersistentService
+2019-08-02 16:47:55,273 [1] INFO  QMS.ExportSisPic.ExportSisPic [(null)] - 批量导出表检图片程序启动
+2019-08-02 16:47:55,275 [1] INFO  SOA.Objects.ObjectContainer [(null)] - loading singleton object id=ExportSisDataPic type=QMS.ExportSisPic.ExportSisPic, QMS.ExportSisPic
+2019-08-02 16:47:55,280 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost startuped
+2019-08-02 16:48:28,258 [1] INFO  SOA.ServiceHost.Program [(null)] - SOA ServiceHost initializing
+2019-08-02 16:48:28,490 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.ConfigService
+2019-08-02 16:48:28,490 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Historain.HistorainDataService
+2019-08-02 16:48:28,491 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SpcChartService
+2019-08-02 16:48:28,491 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.DataTraceService
+2019-08-02 16:48:28,491 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.TechnicalSpecificationService
+2019-08-02 16:48:28,492 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: QMS.Service.SingleQtTableService
+2019-08-02 16:48:28,573 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Objects.ObjectContainer
+2019-08-02 16:48:28,573 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Schedule.ScheduleService
+2019-08-02 16:48:28,574 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.TimeService
+2019-08-02 16:48:28,574 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Service.UpdateService
+2019-08-02 16:48:28,598 [1] INFO  SOA.Service.ServiceRepository [(null)] - Load Service: SOA.Persistent.PersistentService
